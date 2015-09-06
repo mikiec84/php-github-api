@@ -21,7 +21,7 @@ Uses [GitHub API v3](http://developer.github.com/v3/). The object API is very si
 
 ## Autoload
 
-The new version of `php-github-api` using [Composer](http://getcomposer.org).
+The new versioN of `php-github-api` using [Composer](http://getcomposer.org).
 The first step to use `php-github-api` is to download composer:
 
 ```bash
